@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Przemyslaw Wozniak"
   avatar           : "/assets/images/me_rectangular.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a professional Java developer who specialize in web apps. Big fan of agile, extreme programming and open source!"
+  bio              : "I'm a professional Java developer who specializes in web apps. Big fan of agile, extreme programming and open source!"
   location         : "Warsaw, Poland"
   email            :
   uri              :
