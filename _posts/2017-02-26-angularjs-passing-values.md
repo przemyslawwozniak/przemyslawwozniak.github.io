@@ -2,7 +2,7 @@
 title:  "AngularJS: passing a value between pages"
 date:   2017-02-26 10:00:00 +0100
 categories: programming
-excerpt: In this post I'll show you how I've tackled the problem of passing a value received by one AngularJS controller, which operates on one page, to another AngularJS controller, on the other page. You'll also learn why 2xx status code doesn't always evaluate to success in AngularJS's $http service.
+excerpt: Learn how to pass values between AngularJS controllers and webpages, and why 2xx status code doesn't always evaluate to success in AngularJS's $http service.
 ---
 
 I keep on programming the frontend for P1 (which I introduced to you in my [previous post]({% post_url 2017-02-19-angularjs-rest %})), so this text is also dedicated to AngularJS. Today, I'd like to share with you issues that I've encountered trying to pass a value from one distinct webpage to another - and, of course, how I've finally solved them.
