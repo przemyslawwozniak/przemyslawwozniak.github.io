@@ -1,7 +1,7 @@
 ---
 title:  "Spring Data MongoDB - use case study"
 date:   2017-05-08 22:00:00 +0100
-categories: programming
+categories: spring mongo
 excerpt: Learn when it's a good idea to make use of NoSQL database and how it's done with Spring Data.
 ---
 

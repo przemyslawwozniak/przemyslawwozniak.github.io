@@ -1,7 +1,7 @@
 ---
 title:  "Uploading files the HTML5 way with AngularJS"
 date:   2017-03-11 22:00:00 +0100
-categories: programming
+categories: frontend angular
 excerpt: A handy tip for those of you who look into uploading files paneless with the use of latest HTML5's File API.
 ---
 

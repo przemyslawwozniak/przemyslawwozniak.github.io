@@ -1,7 +1,7 @@
 ---
 title:  "Understanding domain with Event Storming"
 date:   2019-12-11 23:30:00 +0100
-categories: programming
+categories: ddd
 excerpt: Every experienced developer knows the rule "do not start with a code". How can one effectively get enough understanding of domain to translate it into code effortlessly? Use Event Storming.
 ---
 
@@ -15,7 +15,7 @@ Below you can find my short note on "understanding", compiled from a few sources
 
 ***
 
-1. Domain events, e.g.:
+1\. Domain events, e.g.:
   * order placed
   * invoice generated
   * new user account created
@@ -25,7 +25,7 @@ Use orange stickers for domain events. Enhance them with yellow stickers, which 
 Consider placing stickers from "first" event to "last" event in order to create timeline for events. At the end, verify them in backwards direction.
 When domain events are written down, proceed to second step.
 
-2. What has to be done for the domain event to happen? Commands, e.g.:
+2\. What has to be done for the domain event to happen? Commands, e.g.:
   * place order
   * generate invoice
   * create user account
@@ -37,7 +37,7 @@ Also, there is a special kind of 'commands', which are used to read model (i.e. 
 What's more, you have to consider if there are any additional conditions which allow to perform the action? These conditions are called invariants. E.g. if the domain event is 'new user account created' and command is 'create user account', invariant could be 'rules for password are satisfied'. Invariants shall be represented as yellow stickers, put between domain event and command.
 Commands written down? Proceed to third step.
 
-3. Who triggers the command? Actors, e.g.:
+3\. Who triggers the command? Actors, e.g.:
   * invoice is generated when user hits 'Download invoice in PDF format' button
   * user account is created when user enters a link which confirms account creation, sent to his email
 

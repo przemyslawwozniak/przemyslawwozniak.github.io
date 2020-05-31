@@ -1,7 +1,7 @@
 ---
 title:  "Client-side rendering with AngularJS - consuming RESTful webservice"
 date:   2017-02-19 21:50:00 +0100
-categories: programming
+categories: frontend angular
 excerpt: Case study of consuming a RESTful webservice with AngularJS to render a complex, dynamic User Interface.
 ---
 

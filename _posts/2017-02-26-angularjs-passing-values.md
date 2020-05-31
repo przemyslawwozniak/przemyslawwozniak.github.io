@@ -1,7 +1,7 @@
 ---
 title:  "AngularJS: passing a value between pages"
 date:   2017-02-26 10:00:00 +0100
-categories: programming
+categories: frontend angular
 excerpt: Learn how to pass values between AngularJS controllers and webpages, and why 2xx status code doesn't always evaluate to success in AngularJS's $http service.
 ---
 

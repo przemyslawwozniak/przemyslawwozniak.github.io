@@ -167,7 +167,7 @@ Sorry, I couldn’t find any reason why to take up this course, but please take 
 **Cons:**
 
 :( author does not teach the proper TDD approach - I know it’s for newcomers, but hey, TDD is not like „write method with dummy body, then supply test for this method, and then implement the method body” but rather „write down the test case, create methods unveiled in this test, get red, implement them, get green” - to be honest, this is the biggest flow in this course, as it targets TDD. What’s more the approach taken by the author, that is copy-pasting code instead of live coding, does not help, as TDD is a living process
-  
+
 :( mocking with Mockito was very poorly introduced (namely, two methods were introduced: when…thenReturn and verify plus the concept of a Spy). It was done to the extend that the mocked database was… pure Java-based. So it was like mocking a mock ;)
 
 **Overall rating: 2/5**

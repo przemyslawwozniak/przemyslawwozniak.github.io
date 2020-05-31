@@ -1,7 +1,7 @@
 ---
 title:  "A few tips for jQuery first-timers"
 date:   2017-04-11 23:30:00 +0100
-categories: programming
+categories: frontend
 excerpt: I share with you what I've learned about jQuery during my HTML editor development.
 ---
 

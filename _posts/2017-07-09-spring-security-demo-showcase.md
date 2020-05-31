@@ -1,7 +1,7 @@
 ---
 title:  "Securing your application with Spring Security"
 date:   2017-07-09 15:45:00 +0100
-categories: programming
+categories: spring
 excerpt: We'll explore a simple scenario of securing demo showcase for your project.
 ---
 
