@@ -4,12 +4,13 @@
 
 @charset "utf-8";
 
-$sans-serif : "Open Sans", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif: "Playfair Display", Georgia, serif;
+$sans-serif: "Open Sans", Verdana, sans-serif;
 
 $type-size-6 : 0.85em;   // post excerpt
 
 /* code piece - contrast syntax highlighting (base16) */
-$base00: #1d1f21;
+/*$base00: #1d1f21;
 $base01: #282a2e;
 $base02: #373b41;
 $base03: #969896;
@@ -24,7 +25,7 @@ $base0b: #b5bd68;
 $base0c: #8abeb7;
 $base0d: #81a2be;
 $base0e: #b294bb;
-$base0f: #a3685a;
+$base0f: #a3685a;*/
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
