@@ -1,6 +1,6 @@
 ---
 title:  "Book review: Functional Programming in Java"
-date:   2020-03-10 10:00:00 +0100
+date:   2020-10-03 10:00:00 +0100
 categories: reviews backend
 excerpt: Functional Programming in Java is an entry-level 200 pager, which gives a nice overview of a programming style made possible since 2014 with the debut of JDK8.
 ---
