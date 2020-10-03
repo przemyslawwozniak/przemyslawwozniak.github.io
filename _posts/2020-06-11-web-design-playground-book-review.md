@@ -2,7 +2,7 @@
 title:  "Book review: Web Design Playground"
 date:   2020-06-11 15:45:00 +0100
 categories: reviews frontend
-excerpt: Web Design Playground is not only a book about HTML5, CSS and web design. It's also an interactive playground, just as it title says. This is my review of the book.
+excerpt: "Web Design Playground" is not only a book about HTML5, CSS and web design. It's also an interactive playground, just as it title says. This is my review of the book.
 ---
 
 As a backend developer, I have to do some glue code on the frontend from time to time. *If so, then why can't you do some minor frontend fixes?* And I do, if I'm asked to, but believe me, it's not my comfort zone.
